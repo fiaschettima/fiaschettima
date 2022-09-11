@@ -1,5 +1,8 @@
-### Hi there 👋
 
+<div id="header" align="center">
+    <h2>Hi i'm Matt 👋</h2>
+  <img src="https://media0.giphy.com/media/PI3QGKFN6XZUCMMqJm/giphy.gif?cid=ecf05e47n7ci97feqztz1qpmqgwodxuglzleqyups73wf0vp&rid=giphy.gif&ct=g" width="300"/>
+</div>
 <!--
 **fiaschettima/fiaschettima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
