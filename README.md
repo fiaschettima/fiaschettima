@@ -16,7 +16,7 @@
 
 ### About Me
 
-
+I recently graduated from a coding bootcamp through UC Berkeley looking to start as a full stack developer.
 
 ---
 
@@ -40,3 +40,11 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/redux/redux-original.svg" title="Redux" alt="Redux" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/sequelize/sequelize-original-wordmark.svg" title="Sequelize" alt="Sequelize" width="40" height="40"/>
 </div>
+
+---
+
+### Some Stats
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fiaschettima&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fiaschettima&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats$)
